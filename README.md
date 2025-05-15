@@ -44,6 +44,6 @@ if __name__ == "__main__":
 
 
 # RESULT:
-the expriment is succesfill
+the expriment is succesfull
 
 
